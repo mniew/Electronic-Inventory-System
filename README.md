@@ -7,10 +7,10 @@ For electronics, the user must enter the product ID, Name, Price, Year. If the p
 
 ![image](https://i.imgur.com/zDOH1B9.png)
 
-![image](https://i.imgur.com/tsqLgwF.png)
-
 
 A hashmap is utilized to increase the efficiency of the product searches. Upon closing the program all items are stored in Data.txt. Data.txt is opened and parsed upon the opening of the program to retain information.
 
+
+![image](https://i.imgur.com/tsqLgwF.png)
 
 ![image](https://i.imgur.com/IzUAunn.png)
