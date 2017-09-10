@@ -1,5 +1,5 @@
 # Electronic-Inventory-System
-Program to represent an electronic store with the ability to store both books and electronics permanently.
+Created a program to represent an electronic store in Java using an object-oriented programming approach.
 
 
 For electronics, the user must enter the product ID, Name, Price, Year. If the product being added is a book the author and publisher can also be included. Defensive programming is used to prevent duplicates or anyother invalid entries. The size of the buttons and text fields will scale to the size of the window.
