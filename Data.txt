@@ -1,0 +1,15 @@
+type = "book"
+productID = "90021"
+name = "Adventures of Huckleberry Finn"
+price = "30.00"
+year = "2013"
+authors = "Mark Twain"
+publisher = "Penguin Inc."
+
+type = "electronics"
+productID = "40214"
+name = "Apple MacBook Air 13.3"
+price = "1100"
+year = "2015"
+maker = "Apple Inc."
+
