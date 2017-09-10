@@ -1,0 +1,15 @@
+type = "book"
+productID = "1231"
+name = "Marek"
+price = "6000"
+year = "1997"
+authors = "Marek"
+publisher = "Yes"
+
+type = "electronics"
+productID = "9998"
+name = "Marek"
+price = "122"
+year = "1123"
+maker = "Das"
+
