@@ -1,4 +1,4 @@
-# Electronic-Inventory-System
+# Book and Car System
 Created a program to represent an electronic store in Java using an object-oriented programming approach.
 
 
