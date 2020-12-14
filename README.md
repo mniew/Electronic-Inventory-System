@@ -14,3 +14,4 @@ A hashmap is utilized to increase the efficiency of the product searches. Upon c
 ![image](https://i.imgur.com/tsqLgwF.png)
 
 ![image](https://i.imgur.com/IzUAunn.png)
+
